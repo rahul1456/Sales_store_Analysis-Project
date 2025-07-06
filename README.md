@@ -16,3 +16,6 @@ where things are going wrong indelivery or operations. Because of this, they are
 
 Solution
 They need proper reports and simpleinsights to understand their sales,customers, and product performancebetter.
+
+![ul 6, 2025, 10_32_04 PM](https://github.com/user-attachments/assets/a0e5896d-631f-4687-a4dc-856bed071274)
+
